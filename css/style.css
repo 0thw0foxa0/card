@@ -81,7 +81,7 @@ a:hover{
     color: #018f01;
 }
 li:hover{
-    transform: translateX(+15%) scale(1.1);
+    transform: scale(1.1);
 }
 
 .sidemenu{
